@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Jade",
+        "last": "Leroy"
+      },
+      "location": {
+        "street": {
+          "number": 6972,
+          "name": "Rue des Cuirassiers"
+        },
+        "city": "Metz",
+        "state": "Landes",
+        "country": "France",
+        "postcode": 88063,
+        "coordinates": {
+          "latitude": "-17.5998",
+          "longitude": "25.1688"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "jade.leroy@example.com",
+      "login": {
+        "uuid": "791dbb78-d00b-4b40-a85c-40bd0e6f534a",
+        "username": "silverfish143",
+        "password": "explore",
+        "salt": "cbRTsdAI",
+        "md5": "c2b5862c834e17531726ae9967a889e0",
+        "sha1": "a602ede534def947c264aa006d24087060fb86d5",
+        "sha256": "268fa914d6a0935e87a0198a4e4b07cfb02a847dd177d92da00dbde34c1e7c3c"
+      },
+      "dob": {
+        "date": "1985-03-12T12:50:15.559Z",
+        "age": 37
+      },
+      "registered": {
+        "date": "2019-02-09T08:46:12.541Z",
+        "age": 3
+      },
+      "phone": "05-39-32-26-09",
+      "cell": "06-87-70-51-30",
+      "id": {
+        "name": "INSEE",
+        "value": "2850291500274 55"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/4.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+      },
+      "nat": "FR"
+    }
+  ],
+  "info": {
+    "seed": "43ee30ec63a81d48",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
